@@ -1,0 +1,67 @@
+Compatibility testing - compatibility testing is an assessment to ensure a software is properly working across different browsers, versions, operating systems (OS), mobile devices, networks and hardware. 
+
+Types of compatibility testing :-
+
+Hardware testing - it checks software to be compatible with different hardware configurations. for example : ram, processor, har disk, ssd, graphic card.
+
+Operating system testing - it checks your software to be compatible with different os like windows, unix,mac os etc.
+
+software testing - It checks your developed software to be compatible with different software, for ex - ms word should be compatible with ms excel.
+
+version testing -> it is for verifying your software application to be compatible with different versions
+
+device testing - it checks the compatibility of your website/app with different devices.
+
+network- evaluation of performance of a website in a network speed with varying parameters such as bandwith/speed.
+
+cross browser- checking the web applications on multiple browsers.
+
+Different Levels of Testing :-
+Unit Testing.
+Integration Testing.
+System Testing.
+Acceptance Testing.
+
+
+unit testing -> unit testing is a method in which individual units of code gets tested.
+
+
+integration testing- > two or more modules are integrated together and tested as a group.
+
+Types of integration testing :-
+
+1. big bang approach -> is an integration testin in which all the components/module/unit are being integrated together and at once tested as a whole application.
+
+2. bottom up approach -> low level --- moderate level ----- high level 
+
+3. top down approach -> high level --- moderate level ----- low level 
+
+
+system testing-> is a type of testing in which we evaluate the overall functionality and performance of a complete software.
+
+
+Alpha testing -> it is performed within the organization people or may be developers.
+
+Beta testing -> It is performed by a selected group of friendly customers.
+
+Acceptance testing-> software is tested for acceptability. the aim is to evaluate the system is working fine as per business requirements and judged whether it is acceptable for delivery or not.
+
+Performance testing -to check whether the system meets the non functional requirements, examples of performance testing: stress, testing, volume testing, security, regression, mainitainance 
+
+smoke testing - > is performed to verify the stability. we verify critical functionality.
+
+Sanity testing- > we try to touch each implementation and its impact but not thoroughy or in depth and imay include functional, UI, version and so on.
+
+Regression testing -> Regression is performed for passed test cases.
+
+Retesting ->   is performed for failed test cases, planned type of testing.
+
+
+Ad-hoc testing - informal type of testing with aim to break the system , it is unplanned type of testing.
+
+Monkey testing -> we aim to crash the application by providing some random inputs and check behavior of the application. this is also an unplanned type of testing.
+
+Buddy testing -> unplanned testing, dev and tester will work together in order to develop and test the application at a rapid pace.
+
+
+
