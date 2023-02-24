@@ -1,0 +1,20 @@
+unit testing -> unit testing is a method in which individual units of code gets tested.
+     
+
+integration testing- > two or more modules are integrated together and tested as a group.
+
+1. big bang approach -> is an integration testin in which all the components/module/unit are being integrated together and at once tested as a whole application.
+
+2. bottom up approach -> low level --- moderate level ----- high level 
+
+3. top down approach -> high level --- moderate level ----- low level 
+
+
+system testing-> is a type of testing in which we evaluate the overalll functionality and performance of a complete software.
+
+
+Acceptance testing-> software is tested for acceptability. the aim is to evaluate the system is working fine as per business requirements and judged whether it is acceptable for delivery or not.
+
+
+smoke testing - > is performed to verify the stability. we verify critical functionality.
+
