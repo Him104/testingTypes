@@ -52,7 +52,7 @@ smoke testing - > is performed to verify the stability. we verify critical funct
 
 Sanity testing- > we try to touch each implementation and its impact but not thoroughy or in depth and imay include functional, UI, version and so on.
 
-Regression testing -> Regression is performed for passed test cases.
+Regression testing -> Regression is performed for passed test cases and new features added in the project.
 
 Retesting ->   is performed for failed test cases, planned type of testing.
 
@@ -62,6 +62,12 @@ Ad-hoc testing - informal type of testing with aim to break the system , it is u
 Monkey testing -> we aim to crash the application by providing some random inputs and check behavior of the application. this is also an unplanned type of testing.
 
 Buddy testing -> unplanned testing, dev and tester will work together in order to develop and test the application at a rapid pace.
+
+GUI Testing -> GUI testing involves the screens with the controls like buttons, icons, menus, hyperlinks, navbar and so on.
+
+Exploratory Testing -> without any specific plans or schedules, Identifying the functionality by exploring the application, this contains min planning and max execution.
+
+
 
 
 
