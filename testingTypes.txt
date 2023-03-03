@@ -54,7 +54,7 @@ Sanity testing- > we try to touch each implementation and its impact but not tho
 
 Regression testing -> Regression is performed for passed test cases and new features added in the project.
 
-Retesting ->   is performed for failed test cases, planned type of testing.
+Retesting ->   is performed for failed test cases, It is planned type of testing.
 
 
 Ad-hoc testing - informal type of testing with aim to break the system , it is unplanned type of testing.
